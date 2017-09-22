@@ -1,1 +1,1 @@
-# SeanDoodyOfficial- This is a Program I wrote for my OOP Class that lets you shop, pick movies from an imported file. It puts them into a list and you can check out. This was the final project for the class.
+# SeanDoodyOfficial- This is a collection of my projects i have completed for school. I've used C# to complete the "FinalProject_Doody". I used python to do the Shopping cart Project. 
