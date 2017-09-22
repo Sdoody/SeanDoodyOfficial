@@ -1,1 +1,1 @@
-# SeanDoodyOfficial-
+# SeanDoodyOfficial- This is a Program I wrote for my OOP Class that lets you shop, pick movies from an imported file. It puts them into a list and you can check out. This was the final project for the class.
